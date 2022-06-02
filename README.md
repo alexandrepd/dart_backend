@@ -2,11 +2,11 @@ A server app built using [Shelf](https://pub.dev/packages/shelf),
 configured to enable running with [Docker](https://www.docker.com/).
 
 This sample code handles HTTP GET requests to:
-get ```'/products'```
-get ```'/product/<id>'```
-delete ```'/product/<id>'```
-post ```'/product'```
-put ```'/product'```
+```GET      '/products'```
+```GET      '/product/<id>'```
+```DELETE   '/product/<id>'```
+```POST     '/product'```
+```PUT      '/product'```
 
 # Running the sample
 
