@@ -4,9 +4,13 @@ configured to enable running with [Docker](https://www.docker.com/).
 This sample code handles HTTP GET requests to:
 
 ```GET      '/products'```
+
 ```GET      '/product/<id>'```
+
 ```DELETE   '/product/<id>'```
+
 ```POST     '/product'```
+
 ```PUT      '/product'```
 
 # Running the sample
